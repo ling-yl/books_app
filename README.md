@@ -1,7 +1,7 @@
 # 記帳APP
 
 ## 系統架構
-![book](https://i.imgur.com/CuJ2kzl.png)
+![books](https://i.imgur.com/CuJ2kzl.png)
 
 
 ## 功能
